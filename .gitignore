@@ -1,0 +1,5 @@
+.idea/
+.venv/
+repo/
+private_key.pem
+.env
